@@ -1,0 +1,16 @@
+{
+  "name": "james",
+  "version": "1.0.0",
+  "description": "Your digital butler",
+  "main": "james.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "home",
+    "automation"
+  ],
+  "author": "Thijs Oostdam",
+  "license": "MIT",
+  "dependencies": {}
+}
