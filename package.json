@@ -12,5 +12,7 @@
   ],
   "author": "Thijs Oostdam",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "memorystream": "^0.3.1"
+  }
 }
